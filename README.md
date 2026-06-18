@@ -31,8 +31,8 @@ Aqui estão as linguagens e ferramentas que utilizo nos meus estudos e projetos:
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-DO-GITHUB]&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-DO-GITHUB]&layout=compact&langs_count=7&theme=radial"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosemx&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosemx&layout=compact&langs_count=7&theme=radial"/>
 </div>
 
 ---
@@ -41,7 +41,7 @@ Aqui estão as linguagens e ferramentas que utilizo nos meus estudos e projetos:
 
 Vamos trocar uma ideia ou colaborar em algum projeto?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][https://www.linkedin.com/in/joão-victor-diniz-a0b2533a5?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] [LINKEDIN_URL]: https://linkedin.com/in/joão-victor-diniz-a0b2533a5
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosemx@gmail.com)
 
 [LINKEDIN_URL]: https://linkedin.com/in/joão-victor-diniz-a0b2533a5?utm_source=share_via&utm_content=profile&utm_medium=member_android
