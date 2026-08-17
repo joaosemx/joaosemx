@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My name is João Diniz and I like to code" src="images/personal_note.svg" />
+  <img height="50" alt="My name is João Diniz and I like to code" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
   <br />
   <br />
 </div>
@@ -16,7 +16,7 @@
       <strong>Visite o meu LinkedIn</strong>
       <br /><br />
       <p>
-        <img alt="Globe" height="80" src="images/globe.gif">
+        <img alt="Globe" height="80" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/globe.gif">
       </p>
     </a>
   </td>
@@ -26,7 +26,7 @@
       <strong>Listen to cool music</strong>
       <br /><br />
       <p>
-        <img height="100" alt="Music" src="images/music.gif"> 
+        <img height="100" alt="Music" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/music.gif"> 
       </p>
     </a>
   </td>
@@ -36,7 +36,7 @@
 <!-- Guestbook Section -->
 <div align="center">
   <a href="https://github.com/joaosemx/joaosemx/issues/new" target="_blank">
-    <img src="images/guestbook.svg" alt="Sign my Guestbook">
+    <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/guestbook.svg" alt="Sign my Guestbook">
   </a> 
 </div>
 
@@ -55,7 +55,7 @@
   <br /><br />
 
   <!-- Contador de Visitas -->
-  <img src="https://profile-counter.glitch.me/joaosemx/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=joaosemx&color=blue&style=flat" alt="Visitor Count" />
   <br /><br />
 
   <!-- Badges retrô -->
