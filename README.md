@@ -35,9 +35,14 @@
 
 <!-- Guestbook Section -->
 <div align="center">
-  <a href="https://github.com/joaosemx/joaosemx/issues">
-    <h3><font color="#FF0055" face="Comic Sans MS">G u e s t b o o k</font> <font color="#00FFFF" size="2">(Clique aqui para assinar)</font></h3>
-  </a> 
+  <a href="https://github.com/joaosemx/joaosemx/issues" style="cursor: pointer; display: inline-block; text-decoration: none;">
+    <font color="#FF0055" face="Comic Sans MS" size="4">
+      <b>G u e s t b o o k</b>
+    </font>
+    <font color="#00FFFF" face="Comic Sans MS" size="2">
+      (Clique aqui para assinar)
+    </font>
+  </a>
 </div>
 
 | Name | Date | Message |
