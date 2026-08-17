@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=My+name+is+Jo%C3%A3o+Diniz+and+I+like+to+code" alt="My name is João Diniz" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=My+name+is+Jo%C3%A3o+Diniz+and+I+like+to+code" alt="My name is João Diniz" />
   <br />
   <br />
 </div>
@@ -11,32 +11,25 @@
 <!-- Social / Links -->
 <table width="100%" align="center">
 <tr>
-  <td align="center">
-    <a href="https://www.linkedin.com/in/joaosemx" target="_blank">
-      <strong>Visite o meu LinkedIn</strong>
-      <div align="center">
-  <a href="https://www.linkedin.com/in/joaosemx" target="_blank" style="cursor: pointer;">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200" alt="Connect on LinkedIn" />
-  </a>
-</div>
+  <td align="center" width="50%">
+    <a href="https://www.linkedin.com/in/joaosemx" target="_blank" style="cursor: pointer; text-decoration: none;">
+      <font color="#00FF00" face="Comic Sans MS"><b>Visite o meu LinkedIn</b></font>
       <br /><br />
-      <p>
-        <img alt="Globe" height="80" src="images/globe.gif">
-      </p>
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" alt="Connect on LinkedIn" />
     </a>
   </td>
 
-  <td align="center">
-    <a href="https://www.youtube.com/watch?v=DloZ1xZHCmo&list=RDDloZ1xZHCmo&start_radio=1" target="_blank">
-      <strong>Listen to cool music</strong>
+  <td align="center" width="50%">
+    <a href="https://www.youtube.com/watch?v=DloZ1xZHCmo&list=RDDloZ1xZHCmo&start_radio=1" target="_blank" style="cursor: pointer; text-decoration: none;">
+      <font color="#00FFFF" face="Comic Sans MS"><b>Listen to cool music</b></font>
       <br /><br />
-      <p>
-        <img height="100" alt="Music" src="images/music.gif"> 
-      </p>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpdDlycnI3NTRxbGFodWRoazkxcWs4eHh3NDdyM2k4d2twOTR3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="180" alt="Cool Music GIF" />
     </a>
   </td>
 </tr>
 </table>
+
+<br />
 
 <!-- Guestbook Section -->
 <div align="center">
@@ -50,6 +43,8 @@
   </a>
 </div>
 
+<br />
+
 | Name | Date | Message |
 |---|---|---|
 
@@ -59,8 +54,7 @@
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
   <br /><br />
 
-<!-- Snake Animation -->
-<div align="center">
+  <!-- Snake Animation -->
   <br>
   <h3>Minhas Contribuições</h3>
   <picture>
@@ -69,7 +63,6 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/joaosemx/joaosemx/output/github-snake.svg">
   </picture>
   <br><br>
-</div>
 
   <!-- Contador de Visitas -->
   <img src="https://komarev.com/ghpvc/?username=joaosemx&color=00ff00&style=flat-square&label=VISITORS" alt="Visitor Count" />
