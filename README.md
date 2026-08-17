@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://raw.githubusercontent.com/joaosemx/joaosemx/main/images/welcome.svg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=My+name+is+Jo%C3%A3o+Diniz+and+I+like+to+code" alt="My name is João Diniz" />
