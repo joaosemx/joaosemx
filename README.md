@@ -25,6 +25,11 @@
       <br><br>
       🎵
     </td>
+    <td align="center">
+      <strong>[ Meu GIF favorito ]</strong>
+      <br><br>
+      <img src="URL_DO_SEU_GIF" width="60" alt="gif" />
+    </td>
   </tr>
 </table>
 <!-- Guestbook Section -->
