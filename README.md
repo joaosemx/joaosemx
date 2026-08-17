@@ -19,7 +19,7 @@
         </font>
       </a>
       <br><br>
-      <img src="https://media.tenor.com/vrrDF3SxMiwAAAAj/jukebox.gif" width="80" alt="linkedin gif" />
+      <img src="https://media1.tenor.com/m/DF9vv1w1-a4AAAAd/nerd-at-computer.gif" width="80" alt="linkedin gif" />
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=DloZ1xZHCmo&list=RDDloZ1xZHCmo&start_radio=1" target="_blank">
@@ -28,7 +28,7 @@
         </font>
       </a>
       <br><br>
-      <img src="https://media1.tenor.com/m/DF9vv1w1-a4AAAAd/nerd-at-computer.gif" width="80" alt="music gif" />
+      <img src="https://media.tenor.com/vrrDF3SxMiwAAAAj/jukebox.gif" width="80" alt="music gif" />
     </td>
   </tr>
 </table>
