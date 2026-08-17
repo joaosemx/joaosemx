@@ -14,6 +14,11 @@
   <td align="center">
     <a href="https://www.linkedin.com/in/joaosemx" target="_blank">
       <strong>Visite o meu LinkedIn</strong>
+      <div align="center">
+  <a href="https://www.linkedin.com/in/joaosemx" target="_blank" style="cursor: pointer;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200" alt="Connect on LinkedIn" />
+  </a>
+</div>
       <br /><br />
       <p>
         <img alt="Globe" height="80" src="images/globe.gif">
