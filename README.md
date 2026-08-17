@@ -12,23 +12,18 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+      <a href="https://www.linkedin.com/in/joaosemx/" target="_blank">
         <strong>[ Visite o meu LinkedIn ]</strong>
       </a>
       <br><br>
-      🌐
+      <img src="https://media1.tenor.com/m/DF9vv1w1-a4AAAAd/nerd-at-computer.gif" width="80" alt="linkedin gif" />
     </td>
     <td align="center">
-      <a href="https://open.spotify.com/playlist/SEU-LINK" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DloZ1xZHCmo&list=RDDloZ1xZHCmo&start_radio=1" target="_blank">
         <strong>[ Listen to cool music ]</strong>
       </a>
       <br><br>
-      🎵
-    </td>
-    <td align="center">
-      <strong>[ Meu GIF favorito ]</strong>
-      <br><br>
-      <img src="URL_DO_SEU_GIF" width="60" alt="gif" />
+      <img src="https://media.tenor.com/vrrDF3SxMiwAAAAj/jukebox.gif" width="80" alt="music gif" />
     </td>
   </tr>
 </table>
