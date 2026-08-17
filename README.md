@@ -36,7 +36,7 @@
 <!-- Guestbook Section -->
 <div align="center">
   <a href="https://github.com/joaosemx/joaosemx/issues/new" target="_blank">
-    <img src="images/guestbook.svg" alt="Sign my Guestbook">
+    <h3><font color="#FF0055" face="Comic Sans MS">G u e s t b o o k</font> <font color="#00FFFF" size="2">(Clique aqui para assinar)</font></h3>
   </a> 
 </div>
 
@@ -62,7 +62,7 @@
 </div>
 
   <!-- Contador de Visitas -->
-  <img src="https://profile-counter.glitch.me/joaosemx/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=joaosemx&color=00ff00&style=flat-square&label=VISITORS" alt="Visitor Count" />
   <br /><br />
 
   <!-- Badges retrô -->
