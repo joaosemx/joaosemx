@@ -35,7 +35,7 @@
 
 <!-- Guestbook Section -->
 <div align="center">
-  <a href="https://github.com/joaosemx/joaosemx/issues/new" target="_blank">
+  <a href="https://github.com/joaosemx/joaosemx/issues">
     <h3><font color="#FF0055" face="Comic Sans MS">G u e s t b o o k</font> <font color="#00FFFF" size="2">(Clique aqui para assinar)</font></h3>
   </a> 
 </div>
