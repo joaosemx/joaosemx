@@ -9,31 +9,24 @@
 </div>
 
 <!-- Social / Links -->
-<!-- Social / Links -->
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="250">
-        <a href="https://www.linkedin.com/in/joaosemx" target="_blank" style="text-decoration: none;">
-          <p align="center">
-            <font color="#00FF00" face="Comic Sans MS" size="3"><b>[ Visite o meu LinkedIn ]</b></font><br><br>
-            <font size="6">🌐</font>
-          </p>
-        </a>
-      </td>
-      <td align="center" width="250">
-        <a href="https://www.youtube.com/watch?v=DloZ1xZHCmo&list=RDDloZ1xZHCmo&start_radio=1" target="_blank" style="text-decoration: none;">
-          <p align="center">
-            <font color="#00FFFF" face="Comic Sans MS" size="3"><b>[ Listen to cool music ]</b></font><br><br>
-            <font size="6">📻</font>
-          </p>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-<br />
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+        <strong>[ Visite o meu LinkedIn ]</strong>
+      </a>
+      <br><br>
+      🌐
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/playlist/SEU-LINK" target="_blank">
+        <strong>[ Listen to cool music ]</strong>
+      </a>
+      <br><br>
+      🎵
+    </td>
+  </tr>
+</table>
 <!-- Guestbook Section -->
 <div align="center">
   <a href="https://github.com/joaosemx/joaosemx/issues" style="cursor: pointer; display: inline-block; text-decoration: none;">
