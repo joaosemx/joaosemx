@@ -49,6 +49,18 @@
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
   <br /><br />
 
+<!-- Snake Animation -->
+<div align="center">
+  <br>
+  <h3>Minhas Contribuições</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaosemx/joaosemx/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaosemx/joaosemx/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/joaosemx/joaosemx/output/github-snake.svg">
+  </picture>
+  <br><br>
+</div>
+
   <!-- Contador de Visitas -->
   <img src="https://profile-counter.glitch.me/joaosemx/count.svg" alt="Visitor Count" />
   <br /><br />
