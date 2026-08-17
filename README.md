@@ -9,13 +9,14 @@
 </div>
 
 <!-- Social / Links -->
+<!-- Social / Links -->
 <table width="100%" align="center">
 <tr>
   <td align="center" width="50%">
     <a href="https://www.linkedin.com/in/joaosemx" target="_blank" style="cursor: pointer; text-decoration: none;">
       <font color="#00FF00" face="Comic Sans MS"><b>Visite o meu LinkedIn</b></font>
       <br /><br />
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" alt="Connect on LinkedIn" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Animate_globe.gif" width="60" alt="Globe GIF" />
     </a>
   </td>
 
@@ -23,7 +24,7 @@
     <a href="https://www.youtube.com/watch?v=DloZ1xZHCmo&list=RDDloZ1xZHCmo&start_radio=1" target="_blank" style="cursor: pointer; text-decoration: none;">
       <font color="#00FFFF" face="Comic Sans MS"><b>Listen to cool music</b></font>
       <br /><br />
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpdDlycnI3NTRxbGFodWRoazkxcWs4eHh3NDdyM2k4d2twOTR3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="180" alt="Cool Music GIF" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Speaker_Icon.gif" width="60" alt="Music GIF" />
     </a>
   </td>
 </tr>
