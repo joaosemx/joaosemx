@@ -10,26 +10,28 @@
 
 <!-- Social / Links -->
 <!-- Social / Links -->
-<table width="100%" align="center">
-<tr>
-  <td align="center" width="50%">
-    <a href="https://www.linkedin.com/in/joaosemx" target="_blank" style="cursor: pointer; text-decoration: none;">
-      <font color="#00FF00" face="Comic Sans MS"><b>Visite o meu LinkedIn</b></font>
-      <br /><br />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Animate_globe.gif" width="60" alt="Globe GIF" />
-    </a>
-  </td>
-
-  <td align="center" width="50%">
-    <a href="https://www.youtube.com/watch?v=DloZ1xZHCmo&list=RDDloZ1xZHCmo&start_radio=1" target="_blank" style="cursor: pointer; text-decoration: none;">
-      <font color="#00FFFF" face="Comic Sans MS"><b>Listen to cool music</b></font>
-      <br /><br />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Speaker_Icon.gif" width="60" alt="Music GIF" />
-    </a>
-  </td>
-</tr>
-</table>
-
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="250">
+        <a href="https://www.linkedin.com/in/joaosemx" target="_blank" style="text-decoration: none;">
+          <p align="center">
+            <font color="#00FF00" face="Comic Sans MS" size="3"><b>[ Visite o meu LinkedIn ]</b></font><br><br>
+            <font size="6">🌐</font>
+          </p>
+        </a>
+      </td>
+      <td align="center" width="250">
+        <a href="https://www.youtube.com/watch?v=DloZ1xZHCmo&list=RDDloZ1xZHCmo&start_radio=1" target="_blank" style="text-decoration: none;">
+          <p align="center">
+            <font color="#00FFFF" face="Comic Sans MS" size="3"><b>[ Listen to cool music ]</b></font><br><br>
+            <font size="6">📻</font>
+          </p>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <br />
 
 <!-- Guestbook Section -->
