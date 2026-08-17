@@ -9,21 +9,26 @@
 </div>
 
 <!-- Social / Links -->
+<!-- Social / Links -->
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/joaosemx/" target="_blank">
-        <strong>[ Visite o meu LinkedIn ]</strong>
+        <font color="#00FFFF" face="Comic Sans MS" size="3">
+          <b>[ Visite o meu LinkedIn ]</b>
+        </font>
       </a>
       <br><br>
-      <img src="https://media1.tenor.com/m/DF9vv1w1-a4AAAAd/nerd-at-computer.gif" width="80" alt="linkedin gif" />
+      <img src="https://media.tenor.com/vrrDF3SxMiwAAAAj/jukebox.gif" width="80" alt="linkedin gif" />
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=DloZ1xZHCmo&list=RDDloZ1xZHCmo&start_radio=1" target="_blank">
-        <strong>[ Listen to cool music ]</strong>
+        <font color="#00FF00" face="Comic Sans MS" size="3">
+          <b>[ Listen to cool music ]</b>
+        </font>
       </a>
       <br><br>
-      <img src="https://media.tenor.com/vrrDF3SxMiwAAAAj/jukebox.gif" width="80" alt="music gif" />
+      <img src="https://media1.tenor.com/m/DF9vv1w1-a4AAAAd/nerd-at-computer.gif" width="80" alt="music gif" />
     </td>
   </tr>
 </table>
